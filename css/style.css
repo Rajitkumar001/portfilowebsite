@@ -165,8 +165,9 @@ span{
 .home-img img{
 	max-width: 100%;
     width: 298px;
-    height: 445px;
-    margin-left: 211px;
+    height: 422px;
+    margin-left: 53px;
+    margin-top: 79px;
 }
 header.sticky{
 	background: var(--bg-color);
